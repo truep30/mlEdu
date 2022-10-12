@@ -1,2 +1,2 @@
 # mlEdu
-Current notebook 01:ООП
+Current notebook 01:Форматирование строк
